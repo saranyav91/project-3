@@ -8,8 +8,6 @@ As a user - I want to keep logs of my daily exercises to stay healthy and fit.
 As a user - I want to list all of the activities/exercises daily. 
 As a non tech-savvy user - I want to use a user friendly website to keep track of my daily exercises.
 
-https://ibb.co/z7vpYnS
-
 Why our app is the best!:
 
 -keep logs of your daily exercise 
@@ -21,6 +19,17 @@ Why our app is the best!:
 Links:https://test-99999998278.herokuapp.com/
 
 Github: https://github.com/saranyav91/project-3
+
+##Future Development:
+
+Git-fit: 
+
+Updated Homepage
+
+Track and keep logs of user steps from mobile devices
+
+Graphs to show daily activities/exercises
+
 
 ### `npm start`
 
