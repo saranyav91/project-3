@@ -8,7 +8,6 @@ As a user - I want to keep logs of my daily exercises to stay healthy and fit.
 As a user - I want to list all of the activities/exercises daily. 
 As a non tech-savvy user - I want to use a user friendly website to keep track of my daily exercises.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 Why our app is the best!:
 
