@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/gitfit");
+mongoose.connect(process.env.MONGODB_URI || "mongodb://user1:password1@ds035553.mlab.com:35553/heroku_n1jwctd6");
 if (process.env.NODE_ENV === "production") {
     app.use(express.static("client/build"));
   }
