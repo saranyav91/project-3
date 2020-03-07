@@ -1,1 +1,1 @@
-# Project-3-Final
+# GIT-FIT MERN EXERCISE APP 
