@@ -8,7 +8,7 @@ As a user - I want to keep logs of my daily exercises to stay healthy and fit.
 As a user - I want to list all of the activities/exercises daily. 
 As a non tech-savvy user - I want to use a user friendly website to keep track of my daily exercises.
 
-![alt text](https://test-99999998278.herokuapp.com/create)
+![alt text](https://ibb.co/z7vpYnS)
 
 Why our app is the best!:
 
